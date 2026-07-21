@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3er120_000-jc.yaml, hash: 'sha256:1eb54047594fb2a41bb031f4756f31c94adc001fa186a8d336cb02a38360f49b'}
+  - {seq: 0, filename: KR3er120_000-jc.yaml, hash: 'sha256:f1ad2d9f4cc2bbb63f7dcb70a43ab5814a887f87ef1ee75906c6256be86f4e25'}
   - {seq: 1, filename: KR3er120_001-jc.yaml, hash: 'sha256:54b4f82061f04235661d804a890fc3550bb6535586ae1598e9dbfe483edbf76b'}
   - {seq: 2, filename: KR3er120_002-jc.yaml, hash: 'sha256:309bcdda5b3e0cd8e8538191182662220c6a84407e3ac078a8fd0c84f39336d3'}
   - {seq: 3, filename: KR3er120_003-jc.yaml, hash: 'sha256:2ccad7fdd9bf6596ff8ec57ad002e786e6bd4783776e8c7d357bbc2c087a7bf0'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 8, filename: KR3er120_008-jc.yaml, hash: 'sha256:f264b5bff2fef1ea882a84e5f850b29ecf04d5c1146aec74ed446e7386e1efce'}
   - {seq: 9, filename: KR3er120_009-jc.yaml, hash: 'sha256:9c2dee05cc01abb278becc845fd051ceeb343ee490afd86b1abcd0210cf9a653'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er120_000-jc.markers.yaml, hash: 'sha256:fd7d93e122bfbb5b8cd82b68c112fcd25c8dbed331054bc18a7c8dd6c808fee5'}
+  - {seq: 0, role: markers, filename: assets/KR3er120_000-jc.markers.yaml, hash: 'sha256:79a899be52715d656e9fc963c4effe2beccb7b6d944053cc9206a6b7934a49c7'}
   - {seq: 1, role: markers, filename: assets/KR3er120_001-jc.markers.yaml, hash: 'sha256:94d079c8b1fe92c09d69d23cfc4bf427818c381ab6362289aa55da135dea32d8'}
   - {seq: 2, role: markers, filename: assets/KR3er120_002-jc.markers.yaml, hash: 'sha256:95458cf5bb8f0f4c19cc7a3d05a855fea9b4a396b0b3b258a64d3a2dc1fbc08a'}
   - {seq: 3, role: markers, filename: assets/KR3er120_003-jc.markers.yaml, hash: 'sha256:46331896c9dec6f969a0843c4f12f79a4efddcc0542eea2d0da2579411205de8'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er120_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 430
   label: 序一
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er120_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 430
     - 880
   label: 序二
@@ -1059,4 +1059,4 @@ table_of_contents:
   label: 疝瘕同法治驗
   type: section
   level: 3
-hash: sha256:77f872389b81c5637577d5cf3699b5eecc4efc99d51917a7755bd93581910caf
+hash: sha256:49e527e783a22674278d79d11fa7b9ebb343dc71811cd24d7db1c431c8211ac7

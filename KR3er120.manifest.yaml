@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er120_000.yaml, hash: 'sha256:b2119359d912acfa6815ee97c24d87f575fa24398803895c4f40abdbcb515479'}
+  - {seq: 0, filename: KR3er120_000.yaml, hash: 'sha256:468bb97a9cac1f1cb5ee85e4758f87babaaecbebb541ca84796724db2c7f85d7'}
   - {seq: 1, filename: KR3er120_001.yaml, hash: 'sha256:b110cf651b5f641de45c8db68f334a34b7a0703170bbf3ec90253c270b619a56'}
   - {seq: 2, filename: KR3er120_002.yaml, hash: 'sha256:12a3f132cb7b034f434d0a09a15d585677c88a7cd047c5fa18c07f1580d41cf0'}
   - {seq: 3, filename: KR3er120_003.yaml, hash: 'sha256:2acd6d10a29cdc2238eb3dd5ca6a382230fea2476a9b6e7850cf35b740e04130'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 8, filename: KR3er120_008.yaml, hash: 'sha256:3083bf052eb114c97b64cdfba78df81659ed4516d6a7437e16aded37c628bac8'}
   - {seq: 9, filename: KR3er120_009.yaml, hash: 'sha256:5f471ac86c2beb27e986aa5c8390de6d5c7d0fa47c6459c111ed089d6c2e6085'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er120_000.markers.yaml, hash: 'sha256:05df9de6c676cb227e16bbc7c01bced61502104a616de7a00b89ed44e704f92d'}
+  - {seq: 0, role: markers, filename: assets/KR3er120_000.markers.yaml, hash: 'sha256:24ffe021f606086388b6ee69dcc2ba720460ef312d53a09db13e21be2d7a6f98'}
   - {seq: 1, role: markers, filename: assets/KR3er120_001.markers.yaml, hash: 'sha256:be099bff38608095c4f9623a89cfc3a37f6229e4337d4382d43acc2aea11d519'}
   - {seq: 2, role: markers, filename: assets/KR3er120_002.markers.yaml, hash: 'sha256:33553078066d58ed6d6b83d7844009927476584cda12c3ac9421bbce34fc5c7d'}
   - {seq: 3, role: markers, filename: assets/KR3er120_003.markers.yaml, hash: 'sha256:542d02a0b84d10ab3ca25f3bfe320382a369105420792e20852b42b61898056a'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er120_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 430
   label: 序一
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er120_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 430
     - 880
   label: 序二
@@ -1059,7 +1059,7 @@ table_of_contents:
   label: 疝瘕同法治驗
   type: section
   level: 3
-hash: sha256:826c992aa6934b64637abe398017eec4ad1fea4223baf7a7110a101db3c88158
+hash: sha256:92c4195976ae74e9ab9d18c0404f5afdb0a0539c318ab5b5a381ab230e319b20
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
